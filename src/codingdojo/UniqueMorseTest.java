@@ -4,9 +4,9 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-class SolutionTest {
+class UniqueMorseTest {
 
-    Solution toTest = new Solution();
+    UniqueMorse toTest = new UniqueMorse();
 
     @Test
     void uniqueMorseRepresentations1() {
