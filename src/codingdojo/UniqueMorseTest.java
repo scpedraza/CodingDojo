@@ -25,7 +25,7 @@ class UniqueMorseTest {
 
     @Test
     void uniqueMorseRepresentations4() {
-        assertEquals(4,toTest.uniqueMorseRepresentations(new String[]{"hello", "ssdrj", "silvana", "sirsrga", "alongerwordd", ""}));
+        assertEquals(4,toTest.uniqueMorseRepresentations(new String[]{"hello", "ssdrj", "silvana", "sirsrga", "alongerwordd", "a"}));
     }
 
     @Test
